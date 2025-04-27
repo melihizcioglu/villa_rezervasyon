@@ -1,16 +1,19 @@
-# villa_rezervasyon
+# Villa Rezervasyon Projesi
 
-A new Flutter project.
+Bu proje, villa rezervasyon sistemi için geliştirilmiş bir uygulamadır.
 
-## Getting Started
+## Proje Yapısı
 
-This project is a starting point for a Flutter application.
+- `backend/`: Backend servisleri (API, veritabanı işlemleri vb.)
+- `frontend/`: Flutter mobil uygulaması
+- `webpanel/`: Yönetim paneli (isteğe bağlı ASP.NET MVC)
 
-A few resources to get you started if this is your first Flutter project:
+## Geliştirme Ortamı
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Backend için tercih edilen framework
+- Web panel için ASP.NET MVC (opsiyonel)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kurulum
+
+Detaylı kurulum talimatları ilgili klasörlerin README dosyalarında bulunmaktadır.

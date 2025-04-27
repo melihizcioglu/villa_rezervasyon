@@ -1,0 +1,6 @@
+@VillaRezervasyonApi_HostAddress = http://localhost:5112
+
+GET {{VillaRezervasyonApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
