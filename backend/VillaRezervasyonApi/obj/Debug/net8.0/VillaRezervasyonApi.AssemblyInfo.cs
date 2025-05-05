@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VillaRezervasyonApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afb614e25ef07ac3a6915394b6b0d4ad6b92e413")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3e86f6e1180c3b6fc20a688026f7f495b819ad2")]
 [assembly: System.Reflection.AssemblyProductAttribute("VillaRezervasyonApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VillaRezervasyonApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
